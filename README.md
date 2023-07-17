@@ -67,8 +67,6 @@
 ```bash
   pip install -r requirements.txt
 ```
-anage.py migrate
-```
 
 **STEP 6:** Run the application.
 
